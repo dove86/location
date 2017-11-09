@@ -1,0 +1,7 @@
+<param name="BufferedIO" value="true" />
+
+<param name="BufferSize" value="2048" />
+
+<appender name="async_info" class="org.apache.log4j/AsyncAppender">
+
+</appender>
